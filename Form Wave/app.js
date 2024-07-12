@@ -9,3 +9,4 @@ allLables.forEach((label) => {
     )
     .join("");
 });
+/.
