@@ -1,4 +1,4 @@
-const allLables = document.querySelectorAll(".form-control label");
+.const allLables = document.querySelectorAll(".form-control label");
 
 allLables.forEach((label) => {
   label.innerHTML = label.innerHTML
@@ -10,3 +10,4 @@ allLables.forEach((label) => {
     .join("");
 });
 /.
+.
